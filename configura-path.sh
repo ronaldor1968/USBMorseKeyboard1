@@ -1,0 +1,1 @@
+export PATH=/home/reboucas/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/home/reboucas/Desenvolvimento/ide/arduino/hardware/tools/avr/bin:/home/reboucas/Desenvolvimento/ide/arduino/hardware/tools/avr/bin
